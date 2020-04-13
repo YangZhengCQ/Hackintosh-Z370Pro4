@@ -9,3 +9,5 @@
   
 *感谢[OpenCore](https://github.com/acidanthera/OpenCorePkg)  
 *感谢[黑果小兵](https://blog.daliansky.net/OpenCore-BootLoader.html)
+
+PS：[Github使用教程](https://github.com/neolee/pilot/blob/master/x3-git-github.ipynb)
